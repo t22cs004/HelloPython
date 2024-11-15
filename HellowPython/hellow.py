@@ -1,2 +1,2 @@
-print("Hellow,Python world!")
+print("Hellow,Python world")
 
